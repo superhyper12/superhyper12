@@ -1,6 +1,6 @@
 # 👋 Welcome!
 Programming is just pain :P
-
+https://media.giphy.com/media/3ohhwAaiJ80mQvPvxK/giphy.gif
   
 ## 📉 Info
 
