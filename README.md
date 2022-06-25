@@ -1,7 +1,7 @@
-![Matrix SVG](https://raw.githubusercontent.com/dheeraj-2000/dheeraj-2000/master/matrix.svg)
+                     ![Matrix SVG](https://raw.githubusercontent.com/dheeraj-2000/dheeraj-2000/master/matrix.svg)
 # 👋 Welcome!
 Programming is just pain :P
-
+ <img src="[https://github.com/dheeraj-2000/dheeraj-2000/blob/master/gifs/Hi.gif](https://github.com/superhyper12/superhyper12/blob/main/gifs/catbug-tired.gif)" width="30px"></h2> <br>
 
   
 ## 📉 Info
