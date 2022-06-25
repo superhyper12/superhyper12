@@ -8,7 +8,7 @@
 
 I'm a self-taught 17 year-old developer and pursuing my dream career into computer science
 
-<p align="right">Programming is just pain</p>
+<p align="right">Programming is just painful</p>
 <img align="right" alt="Coding" width="15%" src="https://github.com/superhyper12/superhyper12/blob/main/gifs/catbug-tired.gif">
 
 Hobby
