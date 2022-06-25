@@ -1,4 +1,4 @@
-<img src="flower-banner.gif">
+<img src="sky.gif">
 
 
 Programming is just pain :P
