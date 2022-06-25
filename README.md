@@ -1,4 +1,4 @@
-<img src="ezgif-2-4f7267ee78.gif">
+<img src="flower-banner.gif">
 
 # 👋 Welcome!
 Programming is just pain :P
