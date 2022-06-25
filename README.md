@@ -1,12 +1,12 @@
 <img src="flower-banner.gif">
 
-# 👋 Welcome!
+
 Programming is just pain :P
 
 <img src="https://github.com/superhyper12/superhyper12/blob/main/gifs/catbug-tired.gif" width="30%" border="100%">
 
   
-## 📉 Info
+
 
 ![Discord Presence](https://lanyard-profile-readme.vercel.app/api/374224735292358657)
 
