@@ -2,17 +2,28 @@
 
 
 
-I'm a self-taught young developer
+#
 
-# About me
+ **About me**
 
+I'm a self-taught 17 year-old developer and pursuing my dream career into computer science
 
-
-<p align="right">Programming is just pain :P</p>
-
+<p align="right">Programming is just pain</p>
 <img align="right" alt="Coding" width="15%" src="https://github.com/superhyper12/superhyper12/blob/main/gifs/catbug-tired.gif">
 
-  
+Hobby
+- 🎾 Tennis
+- 🎣 Fishing                                        
+- 🎮 Video game 
+- 🤹‍♀️ Learning new skills
+
+Currently learning
+
+- Django
+- AI image recognition
+
+
+ ## Info
 
 ![Discord Presence](https://lanyard-profile-readme.vercel.app/api/374224735292358657)
 
