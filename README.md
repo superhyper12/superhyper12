@@ -1,5 +1,7 @@
+![Matrix SVG](https://raw.githubusercontent.com/dheeraj-2000/dheeraj-2000/master/matrix.svg)
 # 👋 Welcome!
 Programming is just pain :P
+
 
   
 ## 📉 Info
