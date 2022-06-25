@@ -23,10 +23,14 @@ Currently learning
 - AI image recognition
 
 
+
+
  ## Info
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superhyper12&langs_count=8)](https://github.com/superhyper12/github-readme-stats) 
+![Banh-Mi's GitHub stats](https://github-readme-stats.vercel.app/api?username=superhyper12)
+
+### Discord
 
 ![Discord Presence](https://lanyard-profile-readme.vercel.app/api/374224735292358657)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superhyper12&langs_count=8)](https://github.com/superhyper12/github-readme-stats) 
-![Banh-Mi's GitHub stats](https://github-readme-stats.vercel.app/api?username=superhyper12&show_icons=true&theme=dark)
 
