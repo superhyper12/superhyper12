@@ -1,9 +1,9 @@
 <img src="flower-banner.gif">
 
 
-Programming is just pain :P
+<p align="right">Programming is just pain :P</p>
 
-<img src="https://github.com/superhyper12/superhyper12/blob/main/gifs/catbug-tired.gif" width="30%" border="100%">
+<img align="right" alt="Coding" width="15%" src="https://github.com/superhyper12/superhyper12/blob/main/gifs/catbug-tired.gif">
 
   
 
