@@ -18,9 +18,11 @@ Hobby
 - 🤹‍♀️ Learning new skills
 
 Currently learning
-
+<h1>Project</h1>
 - Django
 - AI image recognition
+<h1>Language</h1>
+- Python
 
 
 
