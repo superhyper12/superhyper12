@@ -6,7 +6,7 @@
 
  **About me**
 
-I'm a self-taught 17 year-old developerpursuing into Computer science.
+I'm a self-taught 17 year-old developer pursuing into Computer science.
 
 <p align="right">Programming is just painful</p>
 <img align="right" alt="Coding" width="15%" src="https://github.com/superhyper12/superhyper12/blob/main/gifs/catbug-tired.gif">
