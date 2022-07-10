@@ -18,8 +18,7 @@ Hobby
 - 🤹‍♀️ Learning new skills
 
 Currently learning
-- Django
-- AI image recognition
+
 
 
 
