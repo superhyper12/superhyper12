@@ -1,2 +1,2 @@
-- Self-Taught programmer
+ Self-Taught programmer
 
