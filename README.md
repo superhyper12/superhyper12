@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superhyper12&layout=compact)](https://github.com/superhyper12/github-readme-stats)
 
-| ![Profile Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=superhyper12&layout=compact&theme=radical&hide_border=true&langs_count=8) | ![Superhyper12 Stats](https://github-readme-stats.vercel.app/api/wakatime?username=(USERNMAE HERE)&theme=radical&hide_border=true&layout=compact) |
+| <img height="170px" src='https://github-readme-stats.vercel.app/api?username=superhyper12&show_icons=true&include_all_commits=true&theme=radical&hide_border=true' align="right">|![Profile Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=superhyper12&layout=compact&theme=radical&hide_border=true&langs_count=8)|
 | ----- | ----- |
 
 <a href="https://wakatime.com/badge/user/41dc6b94-db08-48ae-aac9-96a6fe6a0672/project/dc412b2b-d7c0-4c2f-a21c-83098296810d"><img src="https://wakatime.com/badge/user/41dc6b94-db08-48ae-aac9-96a6fe6a0672/project/dc412b2b-d7c0-4c2f-a21c-83098296810d.svg" alt="wakatime"></a>
@@ -16,3 +16,8 @@
 * Currently learning Nextcord
 * Scrapy, Pymongo, 
 * Spline
+
+
+
+
+
