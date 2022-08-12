@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superhyper12&layout=compact)](https://github.com/superhyper12/github-readme-stats)
 
-| <img height="170px" src='https://github-readme-stats.vercel.app/api?username=superhyper12&show_icons=true&include_all_commits=true&theme=radical&hide_border=true' align="right">|![Profile Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=superhyper12&layout=compact&theme=radical&hide_border=true&langs_count=8)|
+| ![Profile Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=superhyper12&layout=compact&theme=radical&hide_border=true&langs_count=8) | [![superhyper12's GitHub stats](https://github-readme-stats.vercel.app/api?username=superhyper12)](https://github.com/superhyper12/github-readme-stats) |
 | ----- | ----- |
 
 <a href="https://wakatime.com/badge/user/41dc6b94-db08-48ae-aac9-96a6fe6a0672/project/dc412b2b-d7c0-4c2f-a21c-83098296810d"><img src="https://wakatime.com/badge/user/41dc6b94-db08-48ae-aac9-96a6fe6a0672/project/dc412b2b-d7c0-4c2f-a21c-83098296810d.svg" alt="wakatime"></a>
@@ -17,7 +17,25 @@
 * Scrapy, Pymongo, 
 * Spline
 
+Layout 
 
+<div align=" ">
+  
+ |  |   |
+| ----- | ----- |
+  
+  # > <code>⠀ </code>
+<img src''>
 
+  <p></p>  
 
+  ##
+  #
 
+<br>
+
+<div align="left">
+
+</div>
+
+<!--https://cdn.discordapp.com/emojis/905827157782200320.png?size=80-->
