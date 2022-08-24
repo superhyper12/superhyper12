@@ -4,7 +4,6 @@
 * 🐍Learning Python 
 * 🎨Learning Spline
 * 💡 I'm interested in learning Backend and Frontend Web Development.
-* ⛏ My goal is to build a 3D Interactive Based-Web.
 * 🤝 Looking for people who are willing to collaborate with me on projects.
  
 
