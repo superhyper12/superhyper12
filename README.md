@@ -21,9 +21,8 @@
 
 [![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 
-## Top Repositories
+## Top Repository
 
-https://github.com/superhyper12/Discord-Bot
 
 
 
