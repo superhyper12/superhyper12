@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="170px" src="https://c.tenor.com/B_25bFobJsMAAAAj/capoo-bug-cat.gif"/>
 
 * 💻 Self-Taught Programmer
-* 🌱I'm currently learning **Python**, **Scrapy**, **API**
+* 🌱I'm currently learning Python
 * 💡 I'm interested in learning **Backend** and **Frontend Web Development**.
 * 🤝 Looking for people to collaborate with me
 * 📬 How to reach me 
