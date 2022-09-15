@@ -1,5 +1,7 @@
 <img src=header.png/>
+
 ## About me 
+
 * 💻 Self-Taught Programmer
 * 🌱I'm currently learning Python
 * 💡 I'm interested in learning Backend and Frontend Web Development.
