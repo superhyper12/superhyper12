@@ -1,8 +1,7 @@
 <img src=header.png/>
 
 * 💻 Self-Taught Programmer
-* 🐍Learning Python 
-* 🎨Learning Spline
+* 🐍I'm currently learning Python, **scrapy**, **API**,  
 * 💡 I'm interested in learning Backend and Frontend Web Development.
 * 🤝 Looking for people to collaborate with me
  
