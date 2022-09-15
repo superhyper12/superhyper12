@@ -8,7 +8,7 @@
 * 🌱I'm currently learning **Python**, **Scrapy**, **API**
 * 💡 I'm interested in learning **Backend** and **Frontend Web Development**.
 * 🤝 Looking for people to collaborate with me
-* 📬 My contact information.. (Working on it)
+* 📬 How to reach me 
 
  
 ## Stats
