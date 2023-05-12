@@ -3,7 +3,7 @@
 ## About me 
 
 * 💻 Self-Taught Programmer
-* 🌱I'm currently learning Python
+* 🌱I'm currently learning Javascript
 * 💡 I'm interested in learning Backend and Frontend Web Development.
 * 🎨Learning Spline
 * 🤝Looking for people to collaborate with me.
