@@ -2,7 +2,7 @@
 
 ## About me 
 
-* I am studying Computer Science student and I code for fun
+* I am a Computer Science Major and I dabble in some game development, web dev, and random personal projects
 
 
 
