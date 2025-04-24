@@ -1,17 +1,3 @@
-<img src=header.png/>
-
-## About me 
-
-* I am a Computer Science Major and I dabble in some game development, web dev, and random personal projects
-
-
-
-
- 
-## Stats
-| ![Profile Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=superhyper12&layout=compact&theme=radical&hide_border=true&langs_count=8) |![EggRoll's GitHub stats](https://github-readme-stats.vercel.app/api?username=superhyper12&show_icons=true&theme=radical&bg_color=)|
-| ----- | ----- |
-
 ## Tools and Languages
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
